@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: did-config-server
+  cloud:    config:      enabled: true
